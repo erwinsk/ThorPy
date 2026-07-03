@@ -34,7 +34,7 @@ class NoUserDataPoint(Exception): ...
 class RenumerationFailed(Exception): ...
 
 THORLABS_VID = 0x1313
-PID_RANGE = (0x8080, 0x8089)
+PID_RANGE = (0x8080, 0x808A)
 CCS100_PID_U = 0x8080  # CCS100 Compact Spectrometer
 CCS100_PID = 0x8081  # CCS100 Compact Spectrometer
 CCS125_PID_U = 0x8082  # CCS125 Special Spectrometer
