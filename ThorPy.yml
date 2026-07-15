@@ -11,4 +11,3 @@ dependencies:
   - pyusb
   - libusb-package
   - python-usbtmc
-

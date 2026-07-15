@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: thorlabs_ccs
+Version: 0.2.29
+Summary: Control Thorlabs devices
+Author: Martin Privat
+License: LGPL2.1
+Requires-Dist: numpy
+Requires-Dist: pyUSB
+Requires-Dist: libusb-package
+Requires-Dist: python-usbtmc
+Requires-Dist: matplotlib
+
+# ThorPy
+
+Controlling Thorlabs devices with python
+
+## Thorlabs CCS spectrometer
+
+Implements raw usb communication with pyUSB
+
+## Thorlabs PM console
+
+Uses USBTMC to talk to the device
