@@ -1,5 +1,0 @@
-numpy
-pyUSB
-libusb-package
-python-usbtmc
-matplotlib
